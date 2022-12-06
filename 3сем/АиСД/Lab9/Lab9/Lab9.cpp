@@ -9,4 +9,7 @@ void main()
 	SetConsoleOutputCP(1251);
 
 	
+
+	
+
 }
